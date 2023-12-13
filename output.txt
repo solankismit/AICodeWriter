@@ -1,0 +1,49 @@
+
+* **What is simple linear regression?**
+
+Simple linear regression is a statistical method that allows us to study the relationship between two continuous variables. One variable, denoted x, is regarded as the **predictor**, **explanatory**, or **independent variable**. The other variable, denoted y, is regarded as the **response**, **outcome**, or **dependent variable**.
+
+For example, we might use simple linear regression to study the relationship between the number of hours a student studies and their grade on a test. In this case, the number of hours studied would be the predictor variable and the grade on the test would be the response variable.
+
+* **How does simple linear regression work?**
+
+Simple linear regression works by fitting a **linear regression line** to the data. The linear regression line is a straight line that best fits the data points. The line is represented by the equation y = mx + b, where:
+
+    * y is the value of the response variable
+    * x is the value of the predictor variable
+    * m is the slope of the line
+    * b is the y-intercept of the line
+
+The slope of the line tells us how much the response variable changes when the predictor variable changes by one unit. The y-intercept tells us the value of the response variable when the predictor variable is zero.
+
+* **How to interpret the results of a simple linear regression analysis**
+
+The results of a simple linear regression analysis can be interpreted by looking at the slope and y-intercept of the linear regression line. The slope tells us how much the response variable changes when the predictor variable changes by one unit. The y-intercept tells us the value of the response variable when the predictor variable is zero.
+
+We can also use the linear regression line to make predictions about the value of the response variable for a given value of the predictor variable. For example, if we know that a student studies for 10 hours, we can use the linear regression line to predict that they will get a grade of 90 on the test.
+
+* **Assumptions of simple linear regression**
+
+There are a few assumptions that must be met in order to use simple linear regression. These assumptions are:
+
+    * Linearity: The relationship between the predictor and response variables must be linear.
+    * Homoscedasticity: The variance of the error terms must be constant.
+    * Independence: The error terms must be independent.
+    * Normality: The error terms must be normally distributed.
+
+If these assumptions are not met, the results of the simple linear regression analysis may not be reliable.
+
+* **Limitations of simple linear regression**
+
+Simple linear regression is a powerful tool, but it has some limitations. These limitations include:
+
+    * It can only be used to study the relationship between two continuous variables.
+    * It assumes that the relationship between the predictor and response variables is linear.
+    * It is sensitive to outliers.
+    * It can be difficult to interpret the results when the relationship between the predictor and response variables is not linear.
+
+* **When to use simple linear regression**
+
+Simple linear regression is a good choice when you want to study the relationship between two continuous variables. It is also a good choice when you want to make predictions about the value of the response variable for a given value of the predictor variable.
+
+However, it is important to keep in mind the limitations of simple linear regression before using it. If the relationship between the predictor and response variables is not linear, or if there are outliers in the data, simple linear regression may not be the best choice.
